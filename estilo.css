@@ -16,7 +16,6 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-    color: white;    
 }
 
 *{
@@ -25,16 +24,12 @@
 }
 
 a			{
-            color: #0000FF;
-            text-decoration: underline;
+            color: white;    
+            text-decoration: none;
             }
 
 
 a:hover 	{
             color: #FF9900;
             text-decoration: underline;
-            }
-
-.cursor		{
-            cursor: hand;
             }
