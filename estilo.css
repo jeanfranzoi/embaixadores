@@ -25,11 +25,9 @@
 
 a			{
             color: white;    
-            text-decoration: none;
             }
 
 
 a:hover 	{
             color: #FF9900;
-            text-decoration: underline;
             }
