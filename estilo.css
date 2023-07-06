@@ -24,8 +24,20 @@
     padding: 0;
 }
 
-a:hover
-{
-text-decoration: underline;
+a			{
+            color: #0000FF;
+            text-decoration: none;
+            }
 
-}
+
+a:hover 	{
+            font-family: Arial;
+            font-size: 16px;
+            font-weight: bolder;
+            color: #FF9900;
+            text-decoration: underline;
+            }
+
+.cursor		{
+            cursor: hand;
+            }
