@@ -58,16 +58,10 @@ a:hover {
 .escola-imagem
                 {
                     width: 35%;
-                    display: flex;
-            justify-content: space-around;
-            align-items: center;
                 }
 
 .escola-texto
                 {
                     padding:150px;
                     margin: 0px; 
-                    display: flex;
-            justify-content: space-around;
-            align-items: center;
                 }
