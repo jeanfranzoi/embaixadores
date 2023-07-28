@@ -1,6 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body
     {
-        font-family: verdana,arial,sans-serif;
+        font-family: verdana, arial, sans-serif;
     }
 
 .cabecalho-imagem
@@ -26,10 +31,7 @@ body
                         font-size: 24px;
                     }
 
-*{
-    margin: 0;
-    padding: 0;
-}
+
 
 a	{
         color: white;    
