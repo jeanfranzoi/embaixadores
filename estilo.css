@@ -68,4 +68,8 @@ a:hover {
                     padding:10px;
                     margin: 0px; 
                 }
+
 .escola-div-conteudo
+                    {
+                        align-items: center;
+                    }
