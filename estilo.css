@@ -47,9 +47,23 @@ a:hover {
             color: white;
             font-size: 21px;
             padding: 300px 250px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
         }
 
 .escola-titulo
                 {
                     padding: 24px;
+                }
+
+.escola-imagem
+                {
+                    width: 35%;
+                }
+
+.escola-texto
+                {
+                    padding:150px;
+                    margin: 0px; 
                 }
