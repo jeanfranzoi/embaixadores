@@ -99,5 +99,5 @@ a:hover {
                     text-align: center;
                     padding: 16px 0;
                     display: grid;
-                    grid-template-columns: ;
+                    grid-template-columns: 20, 20;
                 }
