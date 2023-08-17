@@ -75,7 +75,7 @@ a:hover {
                         width: 35%;
                     }
 
-.estudante
+.estudante 
                     {
                         color: white;
                         font-size: 21px;
@@ -83,7 +83,7 @@ a:hover {
                         margin: 0px; 
                         align-items: center;
                     }
-
+ 
 .estudante-imagem   {
                         width: 120px;
                     }
@@ -92,11 +92,16 @@ a:hover {
                         width: 24px;
                         padding: 4px 8px;
                     }
+                    
+.estudante-item    {
+                        text-align: center;
+                        padding: 16px 0;
+                    }
 
 .estudante-todos  {
                 text-align: center;
                 padding: 16px 0;
                 display: grid;
-                grid-template-columns: 50%, 50%;
+                grid-template-columns: 50% 50%;
                 justify-content: center;
             }
