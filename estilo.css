@@ -76,6 +76,17 @@ a:hover {
                         width: 35%;
                     }
 
+.estudante
+                    {
+                        color: white;
+                        font-size: 21px;
+                        padding: 300px 250px; 
+                        margin: 0px; 
+                        display: flex;
+                        justify-content: space-around;
+                        align-items: center;
+                    }
+
 .estudante-imagem   {
                         width: 120px;
                     }
