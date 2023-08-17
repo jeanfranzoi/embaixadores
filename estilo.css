@@ -100,5 +100,5 @@ a:hover {
                     padding: 16px 0;
                     justify-content: space-around.;
                     display: grid;
-                    grid-template-columns: 20, 20;
+                    grid-template-columns: 50, 50;
                 }
