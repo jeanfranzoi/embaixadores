@@ -114,11 +114,9 @@ a:hover {
 
 .rodape-imagem 
         {
-            background-color: #424E61;
+            background-color: #000000;
             color: white;
             display: inline-block;
             justify-content: space-around;
             align-items: center;
-            padding: 5px 0;
-            height: 15%;
         }
