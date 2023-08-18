@@ -105,3 +105,20 @@ a:hover {
                 grid-template-columns: 25% 25% 25% 25%;
                 justify-content: center;
             }
+
+
+.rodape-imagem
+            {
+                width: 50px;
+            }
+
+.rodape-imagem 
+        {
+            background-color: #424E61;
+            color: white;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 5px 0;
+            height: 15%;
+        }
