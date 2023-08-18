@@ -112,11 +112,13 @@ a:hover {
                 width: 50px;
             }
 
-.rodape-imagem 
+.rodape
         {
-            background-color: #000000;
+            background-color: #424E61;
             color: white;
-            display: inline-block;
+            display: flex;
             justify-content: space-around;
             align-items: center;
+            padding: 5px 0;
+            height: 15%;
         }
