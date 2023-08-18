@@ -116,7 +116,7 @@ a:hover {
         {
             background-color: #424E61;
             color: white;
-            display: flex;
+            display: inline-block;
             justify-content: space-around;
             align-items: center;
             padding: 5px 0;
